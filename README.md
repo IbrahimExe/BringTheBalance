@@ -5,7 +5,17 @@ Working with a 3-month time limit, my team of 6 was tasked with creating an exhi
 
 Our client, Ryan Dunnison with the Canadian Video Game Museum, was an experienced developer and avid gamer, so our project would have to work for everyone and live up to massive expectations. 
 
-Each of us set learning goals at the start of the project so that we could come out of this with a new set of skills. For myself, I wanted to gain a better familiarity with one of the fastest opted game engines out there; Unreal Engine, and the creation of a game foundation that uses both Blueprints AND C++ OOP programming. 
+Each of us set learning goals at the start of the project so that we could come out of this with a new set of skills. For myself, I wanted to gain a better familiarity with one of the fastest opted game engines out there; Unreal Engine, and the creation of a game foundation that uses both Blueprints AND Object Oriented C++ programming in engine. 
+
+<br>
+
+> [!IMPORTANT]
+> # PROBLEM STATEMENT:
+>
+> ### "How might we challenge an experienced gamer's assumptions about balancing within the first 10 seconds?"
+
+<br>
+
 
 <div align="center">
 
