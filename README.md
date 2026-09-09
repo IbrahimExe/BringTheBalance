@@ -33,3 +33,11 @@ https://github.com/user-attachments/assets/746f9979-9f54-4e75-8154-0b8dad6e8fee
 </div>
 
 ##### Product video created by [Jesse Lockwood](https://www.jesselockwood.com/)
+
+
+<div align="center">
+  
+### Installment at the CVGM at The Museum of Vancouver:
+
+
+</div>
