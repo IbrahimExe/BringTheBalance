@@ -39,5 +39,7 @@ https://github.com/user-attachments/assets/746f9979-9f54-4e75-8154-0b8dad6e8fee
   
 ### Installment at the CVGM at The Museum of Vancouver:
 
+<img width="3000" height="4000" alt="CVGM_Installment_01" src="https://github.com/user-attachments/assets/55866308-b5b5-4067-9074-e83fe71cd697" />
+
 
 </div>
