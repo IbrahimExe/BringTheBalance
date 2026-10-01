@@ -23,6 +23,15 @@ Each of us set learning goals at the start of the project so that we could come 
 
 </div>
 
+<div align="center">
+  
+### Behind The Scenes:
+
+<img width="2880" height="2160" alt="WhiteboardPlanning" src="https://github.com/user-attachments/assets/6aea25f7-78db-45c1-bc98-bd1efd4e231d" />
+
+<img width="2160" height="2880" alt="UIPrototype_01" src="https://github.com/user-attachments/assets/370f519b-a7e9-4e25-bf2f-c10d2f2d3d83" />
+
+</div>
 
 <div align="center">
   
