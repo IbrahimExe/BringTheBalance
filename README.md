@@ -20,7 +20,7 @@ Each of us set learning goals at the start of the project so that we could come 
 <div align="center">
 
 <img width="268" height="350" alt="BringTheBalance_Arcade" src="https://github.com/user-attachments/assets/067e166c-8420-4671-86b2-0b532f798861" />
-Whiteboard blueprinting: we jotted down ideas we had and how we could combine and intervene them to produce an experience that hit all our goals!
+
 
 </div>
 
@@ -29,6 +29,8 @@ Whiteboard blueprinting: we jotted down ideas we had and how we could combine an
 ### Behind The Scenes:
 
 <img width="2880" height="2160" alt="WhiteboardPlanning" src="https://github.com/user-attachments/assets/6aea25f7-78db-45c1-bc98-bd1efd4e231d" />
+
+Whiteboard blueprinting: we jotted down ideas we had and how we could combine and intervene them to produce an experience that hit all our goals!
 
 <img width="2160" height="2880" alt="UIPrototype_01" src="https://github.com/user-attachments/assets/370f519b-a7e9-4e25-bf2f-c10d2f2d3d83" />
 
