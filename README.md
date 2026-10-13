@@ -34,6 +34,8 @@ Whiteboard blueprinting: we jotted down ideas we had and how we could combine an
 
 <img width="2160" height="2880" alt="UIPrototype_01" src="https://github.com/user-attachments/assets/370f519b-a7e9-4e25-bf2f-c10d2f2d3d83" />
 
+Our very first set up and test on a vertical monitor before our first internal user test!
+
 </div>
 
 <div align="center">
