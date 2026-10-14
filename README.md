@@ -24,9 +24,30 @@ Each of us set learning goals at the start of the project so that we could come 
 
 </div>
 
+### Behind The Scenes: 
+
+Here is a behind the scenes view of the masters level project I was fortunate to be a part of at the [Centre of Digital Media](https://thecdm.ca/).
+
+### *Tutorial*
+
 <div align="center">
-  
-### Behind The Scenes:
+
+#### LEVEL 1
+
+Initially as a developer coming into this project, I was really astounded by how much input I was able to provide in our initial ideation phase. Our first task was to research the intricacies of games that spanned several genres (i.e. MOBAs, Shooters, Turn-Based RPGs), as well as specific games, such as Overwatch, Pokemon and even whacky, yet very insightful, games such as [Totally Accurate Battle Simulator](https://store.steampowered.com/app/508440/Totally_Accurate_Battle_Simulator/) in order to really nail down the essence of game design, and what made a game *feel* fair, instead of frustrating.
+
+We viewed several lens of how players often complained about how *bad* balance is really easy to criticize and even feel, often resulting in a player-base taking online to complain about how a character is "Too O.P (over powered)", or how this system needs a "rework", when several game designers and developers have tried to draw up how it would look in an often vast scenario with plenty of other factors, such as other characters and a plethora of other game mechanics. That being said, *good* game balance is often always never appreciated enough, and thats the appreciation and learning we landed on making the players feel and understand.
+
+Through our research, we found that 'healthy' game balance is often an intricate and delicate mix of math AND psychology. Games rely on slight, deliberate power asymmetries and character archetypes rather than identical matchups to maintain meaningful strategic choices, rigorous, data-driven play testing is required to continue make the game not only feel balanced, but also KEEP IT FUN! 
+
+<img width="750" height="1000" alt="breif-breakdown" src="https://github.com/user-attachments/assets/85fe4818-3146-4b00-821f-a94edb4b233a" />
+
+We realized that, while 1-1 symmetry is literally the definition of balanced, same heroes, same attack power, same map, same everything- this often led to a very boring game, so PERFECT symmetry was not the right answer either!
+
+#### LEVEL 2
+
+Through the first, and weekly ongoing meetings with our client; [The Canadian Video Game Museum](https://cvgm.ca/home.html) we tried to really nail down what kind of experience we wanted to create and provide.
+
 
 <img width="2880" height="2160" alt="WhiteboardPlanning" src="https://github.com/user-attachments/assets/6aea25f7-78db-45c1-bc98-bd1efd4e231d" />
 
