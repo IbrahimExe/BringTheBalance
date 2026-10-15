@@ -46,7 +46,21 @@ We realized that, while 1-1 symmetry is literally the definition of balanced, sa
 
 #### LEVEL 2
 
-Through the first, and weekly ongoing meetings with our client; [The Canadian Video Game Museum](https://cvgm.ca/home.html) we tried to really nail down what kind of experience we wanted to create and provide.
+Through our first, and weekly ongoing meetings with our client; [The Canadian Video Game Museum](https://cvgm.ca/home.html) team & [Ryan Dunnison](https://www.linkedin.com/in/ryandunnison/), we tried to really nail down what kind of experience we wanted to create and provide to people visiting this museum dedicated to the history and celebration of game development here in Canada and Vancouver!
+
+From the creation of personas for the potential visitors and players of our game, to then us having to individually pitch our own ideas, each with a core game loop and basic mechanics and gameplay, we covered almost every genre it felt like!
+During the first sprint, where overall genre and gameplay wasn't yet nailed down, I pitched the following games:
+
+i) A one lane, 1v1 MOBA mini-game with character classes and the ability for the player to pick 'Buffs' and 'Nerfs' in what would be a rouge-like mechanic:
+<img width="3867" height="6165" alt="Initial Ideation_1" src="https://github.com/user-attachments/assets/c02d6ed5-9c33-40a1-af39-1282e12a6634" />
+
+ii) Simulation game where player feedback is given through the game's 'Steam Page Reviews'
+<img width="4110" height="6165" alt="Initial Ideation_2" src="https://github.com/user-attachments/assets/3cf81d7b-0e07-4a58-a266-7d75feb6bef4" />
+
+After initial feedback from the CVGM team and lots of introspection amongst ourselves, and the use of a decision matrix to decide our genre, we landed on a *Turn-Based RPG* within a meta-game setting sort of experience, and went right back to the drawing board. 
+
+Here are the ideas I had for our second sprint having our genre nailed down!
+<img width="7947" height="6165" alt="Projects III Team 4 - Sprint 2 - Ibrahim PVP Genre Ideation" src="https://github.com/user-attachments/assets/974deb43-ab06-43d4-8a84-c64584a5b51c" />
 
 
 <img width="2880" height="2160" alt="WhiteboardPlanning" src="https://github.com/user-attachments/assets/6aea25f7-78db-45c1-bc98-bd1efd4e231d" />
