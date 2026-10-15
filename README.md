@@ -32,7 +32,7 @@ Here is a behind the scenes view of the masters level project I was fortunate to
 
 <div align="center">
 
-#### LEVEL 1
+#### LEVEL 1 - Hello World
 
 Initially as a developer coming into this project, I was really astounded by how much input I was able to provide in our initial ideation phase. Our first task was to research the intricacies of games that spanned several genres (i.e. MOBAs, Shooters, Turn-Based RPGs), as well as specific games, such as Overwatch, Pokemon and even whacky, yet very insightful, games such as [Totally Accurate Battle Simulator](https://store.steampowered.com/app/508440/Totally_Accurate_Battle_Simulator/) in order to really nail down the essence of game design, and what made a game *feel* fair, instead of frustrating.
 
@@ -44,7 +44,7 @@ Through our research, we found that 'healthy' game balance is often an intricate
 
 We realized that, while 1-1 symmetry is literally the definition of balanced, same heroes, same attack power, same map, same everything- this often led to a very boring game, so PERFECT symmetry was not the right answer either!
 
-#### LEVEL 2
+#### LEVEL 2 - Are we the game designers or YOU?
 
 Through our first, and weekly ongoing meetings with our client; [The Canadian Video Game Museum](https://cvgm.ca/home.html) team & [Ryan Dunnison](https://www.linkedin.com/in/ryandunnison/), we tried to really nail down what kind of experience we wanted to create and provide to people visiting this museum dedicated to the history and celebration of game development here in Canada and Vancouver!
 
@@ -57,18 +57,23 @@ i) A one lane, 1v1 MOBA mini-game with character classes and the ability for the
 ii) Simulation game where player feedback is given through the game's 'Steam Page Reviews'
 <img width="4110" height="6165" alt="Initial Ideation_2" src="https://github.com/user-attachments/assets/3cf81d7b-0e07-4a58-a266-7d75feb6bef4" />
 
-After initial feedback from the CVGM team and lots of introspection amongst ourselves, and the use of a decision matrix to decide our genre, we landed on a *Turn-Based RPG* within a meta-game setting sort of experience, and went right back to the drawing board. 
+After initial feedback from the CVGM team and lots of introspection amongst ourselves, and the use of a decision matrix to decide our genre, we landed on a *Turn-Based RPG*, and went right back to the drawing board. 
 
 Here are the ideas I had for our second sprint having our genre nailed down!
 <img width="7947" height="6165" alt="Projects III Team 4 - Sprint 2 - Ibrahim PVP Genre Ideation" src="https://github.com/user-attachments/assets/974deb43-ab06-43d4-8a84-c64584a5b51c" />
 
+After even more feedback and lots of discussions within our little team too, we also nailed down that a turn-based, simulated RPG inside a *meta-game setting* would work the best inside the museum as it allows for a 3-5 minute window we established that we wanted the entire experience to have.
+
+The player would not control the characters' actions directly, but they would adjust their stats and run a game simulation to see the results of the changes they made!
+
+#### LEVEL 3 - GAME START (on development)
+
+...
 
 <img width="2880" height="2160" alt="WhiteboardPlanning" src="https://github.com/user-attachments/assets/6aea25f7-78db-45c1-bc98-bd1efd4e231d" />
-
 Whiteboard blueprinting: we jotted down ideas we had and how we could combine and intervene them to produce an experience that hit all our goals!
 
 <img width="2160" height="2880" alt="UIPrototype_01" src="https://github.com/user-attachments/assets/370f519b-a7e9-4e25-bf2f-c10d2f2d3d83" />
-
 Our very first set up and test on a vertical monitor before our first internal user test!
 
 </div>
